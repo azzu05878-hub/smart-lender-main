@@ -1,0 +1,6 @@
+{
+  "name": "Smart Lender",
+  "description": "An interactive machine learning system and visual dashboard for predicting loan eligibility, exploring dataset patterns, and practicing data preprocessing and classification models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
